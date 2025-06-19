@@ -1,5 +1,7 @@
 # ChromeDriver Version 135.0.7049.114 Setup for GoLogin Browser
 
+## [Directly Download Here (Web App)](https://chrome-web-drivers.netlify.app/)
+
 This document outlines the process of identifying and downloading ChromeDriver version 135.0.7049.114, compatible with the GoLogin browser (version 135.x.x) for macOS ARM64 architecture. Additionally, it provides guidance on how to find and download ChromeDriver for other versions to accommodate different browser versions.
 
 ## Table of Contents
